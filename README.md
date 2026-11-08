@@ -20,4 +20,5 @@
    ```R
    setwd("/path/to/your/folder")
 3. Run the R script:
+    ```R
    source("dna_analysis.R")
